@@ -1,3 +1,5 @@
+<link href="path/to/config.yml" type="text/yaml" rel="cms-config-url">
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^…
 backend:
   name: git-gateway
   branch: master
